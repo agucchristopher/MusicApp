@@ -1,0 +1,102 @@
+{
+  "href": "https://api.spotify.com/v1/users/315jatxc7z3af2svjfmdgnqyvu6y/playlists?offset=0&limit=20",
+  "items": [
+    {
+      "collaborative": false,
+      "description": "Playlist created by the tutorial on developer.spotify.com",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/56PXV6OXfw9dvTJOHnAoJ2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/56PXV6OXfw9dvTJOHnAoJ2",
+      "id": "56PXV6OXfw9dvTJOHnAoJ2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2737e2b5827ffc185e44c3e6ef0ab67616d0000b273a7d917ae40b5615408c36d60ab67616d0000b273b8e6ca0b9a90f05f22fdbbd4ab67616d0000b273c0b2c9a6355f8fb007ceb731",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2737e2b5827ffc185e44c3e6ef0ab67616d0000b273a7d917ae40b5615408c36d60ab67616d0000b273b8e6ca0b9a90f05f22fdbbd4ab67616d0000b273c0b2c9a6355f8fb007ceb731",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2737e2b5827ffc185e44c3e6ef0ab67616d0000b273a7d917ae40b5615408c36d60ab67616d0000b273b8e6ca0b9a90f05f22fdbbd4ab67616d0000b273c0b2c9a6355f8fb007ceb731",
+          "width": 60
+        }
+      ],
+      "name": "My recommendation playlist",
+      "owner": {
+        "display_name": "Linux",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/315jatxc7z3af2svjfmdgnqyvu6y"
+        },
+        "href": "https://api.spotify.com/v1/users/315jatxc7z3af2svjfmdgnqyvu6y",
+        "id": "315jatxc7z3af2svjfmdgnqyvu6y",
+        "type": "user",
+        "uri": "spotify:user:315jatxc7z3af2svjfmdgnqyvu6y"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MywyOWRjOWMwOWZhYjBmMjBlMjM2NjllYjA5YjU0NzBkMWJjZmE5ODdh",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/56PXV6OXfw9dvTJOHnAoJ2/tracks",
+        "total": 10
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:56PXV6OXfw9dvTJOHnAoJ2"
+    },
+    {
+      "collaborative": false,
+      "description": "Playlist created by the tutorial on developer.spotify.com",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6WB0RUULgIVQJvOqxZS6Lz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6WB0RUULgIVQJvOqxZS6Lz",
+      "id": "6WB0RUULgIVQJvOqxZS6Lz",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2733b91d220a129b1c88306b796ab67616d0000b2737e2b5827ffc185e44c3e6ef0ab67616d0000b273a7d917ae40b5615408c36d60ab67616d0000b273d7ed1a61fc9327fb2dfbfc43",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2733b91d220a129b1c88306b796ab67616d0000b2737e2b5827ffc185e44c3e6ef0ab67616d0000b273a7d917ae40b5615408c36d60ab67616d0000b273d7ed1a61fc9327fb2dfbfc43",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2733b91d220a129b1c88306b796ab67616d0000b2737e2b5827ffc185e44c3e6ef0ab67616d0000b273a7d917ae40b5615408c36d60ab67616d0000b273d7ed1a61fc9327fb2dfbfc43",
+          "width": 60
+        }
+      ],
+      "name": "My recommendation playlist",
+      "owner": {
+        "display_name": "Linux",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/315jatxc7z3af2svjfmdgnqyvu6y"
+        },
+        "href": "https://api.spotify.com/v1/users/315jatxc7z3af2svjfmdgnqyvu6y",
+        "id": "315jatxc7z3af2svjfmdgnqyvu6y",
+        "type": "user",
+        "uri": "spotify:user:315jatxc7z3af2svjfmdgnqyvu6y"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MyxlYTBmZDVlZTI0MTQ4YTU5NDFkODNmMjViMTcxNTBiMTYyNTZlOTQz",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6WB0RUULgIVQJvOqxZS6Lz/tracks",
+        "total": 10
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6WB0RUULgIVQJvOqxZS6Lz"
+    }
+  ],
+  "limit": 20,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 2
+}
